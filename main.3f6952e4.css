@@ -1253,6 +1253,10 @@ pre code {
     gap: 30px;
 }
 
+.redes img{
+    width: 40px;
+    height: 40px;
+}
 @media (min-width:768px) {
 
     .col-sm-1,
