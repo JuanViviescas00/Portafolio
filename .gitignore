@@ -1,0 +1,5 @@
+# Ignore prueba folder
+prueba/
+
+# Ignore .qodo files
+*.qodo
